@@ -60,15 +60,3 @@ me.say_hi()
 - Email: **shalinisharief7@gmail.com**
 
 ---
-
-## 🎭 Animated Contributions (Yearly Activity)
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SK-Sharief&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <!-- Snake Contribution Animation -->
-  <img src="https://github.com/SK-Sharief/SK-Sharief/blob/output/github-contribution-grid-snake.svg" />
-</p>
