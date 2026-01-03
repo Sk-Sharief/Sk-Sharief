@@ -36,9 +36,39 @@ me.say_hi()
 
 ---
 
+## ⭐ Key Projects
 
+### 🔹 Codlayze
+- Intelligent code-analysis tool for readability and structural optimization  
+- Helps improve modularity and refactoring decisions  
+👉 Repo: https://github.com/Sk-Sharief/Codalyze-project
 
-### 🌊 Animated Footer
+### 🔹 Facial Expression Intelligence System
+- Real-time facial emotion recognition with vision-based inference overlay  
+- Designed for human-AI interaction analytics  
+👉 Repo: https://github.com/Sk-Sharief/Facial-Expression-Intelligence-System
+
+### 🔹 Fake News Detector
+- NLP-based misinformation classification system with dataset-driven evaluation  
+- Focused on accuracy, reliability, and model interpretability  
+👉 Repo: https://github.com/Sk-Sharief/Fake-news-detection
+
+---
+
+## 📬 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sharief-sk/  
+- Email: **shalinisharief7@gmail.com**
+
+---
+
+## 🎭 Animated Contributions (Yearly Activity)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C6EF5&height=120&section=footer"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SK-Sharief&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Snake Contribution Animation -->
+  <img src="https://github.com/SK-Sharief/SK-Sharief/blob/output/github-contribution-grid-snake.svg" />
 </p>
